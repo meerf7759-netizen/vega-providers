@@ -1,11 +1,11 @@
 [
   {
-    "display_name": "EXAMPLE",
-    "value": "example",
+    "display_name": "HDHub4U",
+    "value": "hdhub4u",
     "version": "1.0",
     "icon": "",
     "type": "global",
-    "hasSettings": true,
+    "hasSettings": false,
     "disabled": false
   }
 ]
